@@ -1,6 +1,6 @@
 ## General:
 
-[View solution](https://github.com/sgedye/EHG-code-test) for the EHG coding test.
+[View solution](https://sgedye.github.io/EHG-code-test) for the EHG coding test.
 
 
 ## Task:
