@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sgedye/EHG-code-test/precache-manifest.3d823904b2a191ee966e4ec18929b544.js"
+  "/sgedye/EHG-code-test/precache-manifest.faf8542eef0bc58fc332bcd190e3fb23.js"
 );
 
 self.addEventListener('message', (event) => {
