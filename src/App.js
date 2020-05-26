@@ -69,6 +69,7 @@ export default function App() {
         .style.backgroundColor = `#${redValue}${greenValue}${blueValue}`
     }
   }
+  
   return (
     <div className="App">
       <h2>This is going to be a table of 32x1024 elements</h2>
