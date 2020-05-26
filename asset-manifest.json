@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sgedye/EHG-code-test/static/css/main.1c39b70b.chunk.css",
+    "main.js": "/sgedye/EHG-code-test/static/js/main.a308d1c1.chunk.js",
+    "main.js.map": "/sgedye/EHG-code-test/static/js/main.a308d1c1.chunk.js.map",
+    "runtime-main.js": "/sgedye/EHG-code-test/static/js/runtime-main.8c231ea8.js",
+    "runtime-main.js.map": "/sgedye/EHG-code-test/static/js/runtime-main.8c231ea8.js.map",
+    "static/js/2.cfabd16a.chunk.js": "/sgedye/EHG-code-test/static/js/2.cfabd16a.chunk.js",
+    "static/js/2.cfabd16a.chunk.js.map": "/sgedye/EHG-code-test/static/js/2.cfabd16a.chunk.js.map",
+    "index.html": "/sgedye/EHG-code-test/index.html",
+    "precache-manifest.3d823904b2a191ee966e4ec18929b544.js": "/sgedye/EHG-code-test/precache-manifest.3d823904b2a191ee966e4ec18929b544.js",
+    "service-worker.js": "/sgedye/EHG-code-test/service-worker.js",
+    "static/css/main.1c39b70b.chunk.css.map": "/sgedye/EHG-code-test/static/css/main.1c39b70b.chunk.css.map",
+    "static/js/2.cfabd16a.chunk.js.LICENSE.txt": "/sgedye/EHG-code-test/static/js/2.cfabd16a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c231ea8.js",
+    "static/js/2.cfabd16a.chunk.js",
+    "static/css/main.1c39b70b.chunk.css",
+    "static/js/main.a308d1c1.chunk.js"
+  ]
+}
