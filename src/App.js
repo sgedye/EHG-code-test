@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import Table from './components/table';
+import Table from './components/Table';
 import './App.css';
 
 export default function App() {
@@ -16,7 +16,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h2>This is a simple 32x1024 table of colours elements</h2>
+      <h2>This is a simple 32x1024 table of colours elements:</h2>
       <Table />
     </div>
   )

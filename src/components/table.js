@@ -1,6 +1,6 @@
 import React from 'react'
 
-function table() {
+function Table() {
   // Creating an 2D array with 1024 rows and 32 columns.
   const tableContents = [...new Array(1024)].map((row,rowI) => (
     <tr id={`row-${rowI}`} key={`row-${rowI}`}>
@@ -20,4 +20,4 @@ function table() {
   )
 }
 
-export default table
+export default Table
